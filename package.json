@@ -11,7 +11,9 @@
   "scripts": {
     "test": "grunt test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "nodeload": "0.4.0"
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {

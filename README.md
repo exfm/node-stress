@@ -1,10 +1,8 @@
 # node-stress
 
-
-
+    Load testing for different exfm services.
 
 ## Install
-
 
      npm install node-stress
 
