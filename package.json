@@ -1,0 +1,20 @@
+{
+  "author": " <>",
+  "name": "node-stress",
+  "description": "",
+  "version": "0.0.0",
+  "homepage": "http://github.com/exfm/node-stress",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/exfm/node-stress.git"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
